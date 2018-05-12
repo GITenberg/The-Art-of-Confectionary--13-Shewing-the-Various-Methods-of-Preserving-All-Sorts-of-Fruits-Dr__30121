@@ -1,0 +1,32 @@
+_repo: The-Art-of-Confectionary--13-Shewing-the-Various-Methods-of-Preserving-All-Sorts-of-Fruits-Dr__30121
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lambert, Edward
+    gutenberg_agent_id: '34387'
+    url: http://www.gutenberg.org/2009/agents/34387
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2009-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confectionery'
+- !lcsh 'Cooking -- Early works to 1800'
+- !lcc 'TX'
+title: "The Art of Confectionary\r\nShewing the Various Methods of Preserving All\
+  \ Sorts of Fruits, Dry and Liquid; viz. Oranges, Lemons, Citrons, Golden Pippins,\
+  \ Wardens, Apricots Green, Almonds, Goosberries, Cherries, Currants, Plumbs, Rasberries,\
+  \ Peaches, Walnuts, Nectarines, Figs, Grapes, &amp;c., Flowers and Herbs; as Violets,\
+  \ Angelica, Orange-Flowers, &amp;c.; Also How to Make All Sorts of Biscakes, Maspins,\
+  \ Sugar-Works, and Candies. With the Best Methods of Clarifying, and the Different\
+  \ Ways of Boiling Sugar."
+url: http://www.gutenberg.org/ebooks/30121
